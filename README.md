@@ -7,3 +7,5 @@ To run the code:
 
 
 Here is a link to the google sheet I created to keep track of my progress: https://docs.google.com/spreadsheets/d/1LX-SmLOTVlkZ3Vubc96gf7QFQSTskOchVAhdjdJEZdQ/edit?usp=sharing 
+
+I have attached some notes that I took throughout the tutorials that I went through so feel free to look through those too :)
