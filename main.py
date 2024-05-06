@@ -1,9 +1,9 @@
 import requests
 import textwrap
 
-api_key = 'ddbb72c1853f934bbf1bc4304948d720'
+api_key = 'ddbb72c1853f934bbf1bc4304948d720' #my personalized api key from OpenWeather
 
-user_input = input("Enter a city: ")
+user_input = input("Enter a city: ") #input a city into the terminal and hit enter
 
 weather_data = requests.get(
     f"https://api.openweathermap.org/data/2.5/weather?q={user_input}&units=imperial&APPID={api_key}")
